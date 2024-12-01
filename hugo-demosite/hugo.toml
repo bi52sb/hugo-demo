@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://brew-with-intergrity.netlify.app//'
 languageCode = 'en-us'
 title = 'Brew With Integrity'
 theme = 'PaperMod'
