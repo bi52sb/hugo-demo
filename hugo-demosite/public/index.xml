@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Brew With Integrity</title>
+    <link>http://localhost:1313//</link>
+    <description>Recent content on Brew With Integrity</description>
     <generator>Hugo -- 0.139.3</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Dec 2024 19:49:13 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313//index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Neo-Colonialism in coffee</title>
-      <link>http://localhost:1313/posts/neo-colonialism_in_coffee/</link>
+      <link>http://localhost:1313//posts/neo-colonialism_in_coffee/</link>
       <pubDate>Sun, 01 Dec 2024 19:49:13 +0000</pubDate>
-      <guid>http://localhost:1313/posts/neo-colonialism_in_coffee/</guid>
+      <guid>http://localhost:1313//posts/neo-colonialism_in_coffee/</guid>
       <description>&lt;h1 id=&#34;neo-colonialism-in-coffee-brewing-inequality-in-a-global-industry&#34;&gt;Neo-Colonialism in Coffee: Brewing Inequality in a Global Industry&lt;/h1&gt;
 &lt;p&gt;Coffee is one of the most beloved beverages in the world, with billions of cups consumed daily. Yet, behind every sip lies a complex web of economic, social, and environmental injustices, many of which can be traced to neo-colonialism. This subtle but pervasive form of control perpetuates historical inequalities between wealthy consuming nations and poorer producing countries, particularly in the Global South.&lt;/p&gt;</description>
     </item>
