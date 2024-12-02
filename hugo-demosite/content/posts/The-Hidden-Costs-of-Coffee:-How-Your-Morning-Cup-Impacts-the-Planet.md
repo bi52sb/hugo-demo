@@ -1,6 +1,6 @@
 +++
 date = '2024-12-02T08:56:38Z'
-draft = true
+draft = false
 title = 'The Hidden Costs of Coffee: How Your Morning Cup Impacts the Planet'
 +++
 # The Hidden Costs of Coffee: How Your Morning Cup Impacts the Planet
